@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "692671260704",
+    "firebase_url": "https://healthcare-emergency-system-default-rtdb.firebaseio.com",
+    "project_id": "healthcare-emergency-system",
+    "storage_bucket": "healthcare-emergency-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692671260704:android:8e46443da681f0aa45f445",
+        "android_client_info": {
+          "package_name": "com.FA.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692671260704-s4ejk7j81s3brrulbkgd230fik96vfnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9qFTeYd2gT6dOsqJAyTzVhPEkRCpfuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692671260704-s4ejk7j81s3brrulbkgd230fik96vfnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692671260704:android:fc2041fd80fe6d1a45f445",
+        "android_client_info": {
+          "package_name":  "com.FA.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692671260704-s4ejk7j81s3brrulbkgd230fik96vfnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9qFTeYd2gT6dOsqJAyTzVhPEkRCpfuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692671260704-s4ejk7j81s3brrulbkgd230fik96vfnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
